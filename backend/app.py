@@ -13,7 +13,15 @@ DEMO_DIR = ROOT_DIR / "demoData"
 app = FastAPI(title="SmartAlloc API", version="1.0.0")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origins=[
+        # Local development
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        # Production frontend on Vercel
+        "https://smart-allocation-pmi.vercel.app",
+        # Allow any Vercel preview deployments for this project
+        "https://smart-allocation-pmi-*.vercel.app",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
