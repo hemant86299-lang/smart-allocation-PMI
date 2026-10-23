@@ -1,0 +1,10 @@
+timestamp,event_type,candidate_id,internship_id,previous_status,new_status,declined_candidate_id,replacement_candidate_id
+2026-08-21T21:17:22.622244+00:00,DECLINE,C0021,I001,allocated,declined/unallocated,C0021,
+2026-08-21T21:17:22.622244+00:00,REALLOCATION,C0090,I001,unallocated,allocated,C0021,C0090
+2026-08-22T07:06:29.109780+00:00,DECLINE,C0001,I010,allocated,declined/unallocated,C0001,
+2026-08-22T07:06:29.109780+00:00,REALLOCATION,C0192,I010,unallocated,allocated,C0001,C0192
+2026-08-22T18:02:00.906890+00:00,DECLINE,C0001,I010,allocated,declined/unallocated,C0001,
+2026-08-22T18:02:00.906890+00:00,REALLOCATION,C0192,I010,unallocated,allocated,C0001,C0192
+2026-08-24T05:47:00.152554+00:00,DECLINE,C0001,I010,allocated,declined/unallocated,C0001,
+2026-08-24T05:47:00.152554+00:00,REALLOCATION,C0192,I010,unallocated,allocated,C0001,C0192
+2026-08-24T05:52:27.296153+00:00,DECLINE,C0002,I014,allocated,declined/unallocated,C0002,

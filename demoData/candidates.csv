@@ -1,0 +1,201 @@
+candidate_id,name,category,location_pref,skills,qualification_score
+C0001,Allison Hill,General,Delhi,"Marketing, Data Analysis, Finance, Excel",86.8
+C0002,Noah Rhodes,EWS,Delhi,"Sales, Python, Finance, Content Writing",60.9
+C0003,Angie Henderson,EWS,Pune,"Finance, Data Analysis",85.8
+C0004,Daniel Wagner,EWS,Hyderabad,"Content Writing, Marketing",90.5
+C0005,Cristian Santos,General,Mumbai,"Sales, Design, Marketing, Excel",60.8
+C0006,Connie Lawrence,SC,Delhi,"Sales, Excel",67.9
+C0007,Abigail Shaffer,SC,Pune,"Python, Content Writing, Excel",98.7
+C0008,Gina Moore,ST,Delhi,"Marketing, Design, Data Analysis, Finance",53.5
+C0009,Gabrielle Davis,OBC,Bangalore,"Data Analysis, Excel",69.0
+C0010,Ryan Munoz,ST,Chennai,"Communication, Design, Finance",60.5
+C0011,Monica Herrera,SC,Chennai,"Excel, Communication, Data Analysis, Customer Support",73.1
+C0012,Jamie Arnold,SC,Chennai,"Finance, Data Analysis, Design, Sales",88.4
+C0013,Lisa Hensley,General,Mumbai,"Design, Sales",63.4
+C0014,Michele Williams,OBC,Pune,"Design, Data Analysis, Content Writing, Finance",94.2
+C0015,Dylan Miller,ST,Mumbai,"Communication, Data Analysis, Marketing",87.4
+C0016,Brian Ramirez,ST,Pune,"Design, Data Analysis, Communication",75.5
+C0017,Holly Wood,General,Delhi,"Communication, Customer Support",89.6
+C0018,Derek Zuniga,ST,Pune,"Sales, Customer Support",79.8
+C0019,Lisa Jackson,ST,Pune,"Finance, Python, Excel",84.1
+C0020,Carla Gray,EWS,Bangalore,"Design, Excel, Marketing, Data Analysis",57.9
+C0021,Margaret Hawkins DDS,General,Chennai,"Marketing, Finance, Communication, Customer Support",95.6
+C0022,Patty Perez,SC,Chennai,"Customer Support, Data Analysis, Communication, Content Writing",88.1
+C0023,Ethan Adams,EWS,Pune,"Customer Support, Design",74.4
+C0024,Tommy Walter,General,Bangalore,"Data Analysis, Python, Customer Support",93.9
+C0025,Matthew Foster,General,Delhi,"Content Writing, Excel, Communication, Finance",83.0
+C0026,Judy Baker,EWS,Mumbai,"Finance, Sales, Data Analysis",96.4
+C0027,Justin Baker,OBC,Chennai,"Sales, Design, Content Writing",95.0
+C0028,Stephanie Ross,ST,Delhi,"Data Analysis, Excel",66.9
+C0029,Zachary Hicks,EWS,Pune,"Customer Support, Data Analysis",50.4
+C0030,Anthony Rodriguez,General,Mumbai,"Python, Design",53.5
+C0031,Rebecca Henderson,OBC,Bangalore,"Content Writing, Data Analysis, Communication, Design",96.8
+C0032,James Ferrell,EWS,Pune,"Data Analysis, Content Writing, Sales",59.5
+C0033,Tricia Valencia,General,Chennai,"Design, Sales, Finance",73.4
+C0034,Nathan Maldonado,General,Chennai,"Excel, Python, Sales, Design",67.0
+C0035,Debra Davidson,General,Mumbai,"Data Analysis, Finance",72.4
+C0036,Jeffrey Chavez,ST,Mumbai,"Content Writing, Data Analysis, Excel",72.2
+C0037,Sherri Baker,EWS,Delhi,"Finance, Python",98.4
+C0038,Cassandra Gaines,OBC,Mumbai,"Content Writing, Customer Support, Data Analysis",93.2
+C0039,Elizabeth Fowler,General,Mumbai,"Python, Sales, Marketing",96.3
+C0040,Brittany Farmer,ST,Bangalore,"Finance, Content Writing, Communication",59.5
+C0041,Paula Moreno,OBC,Delhi,"Finance, Python, Design, Customer Support",52.5
+C0042,Fred Smith,ST,Pune,"Communication, Python, Excel, Sales",59.3
+C0043,Sherry Decker,EWS,Delhi,"Data Analysis, Sales, Excel, Marketing",62.3
+C0044,Anthony Humphrey,EWS,Delhi,"Excel, Sales, Design, Communication",60.2
+C0045,Angelica Tucker,SC,Mumbai,"Sales, Communication, Marketing",72.9
+C0046,Philip Cannon,General,Delhi,"Customer Support, Excel, Finance",76.9
+C0047,John Pierce,EWS,Bangalore,"Design, Excel",94.0
+C0048,Shane Henderson,SC,Bangalore,"Content Writing, Finance",85.2
+C0049,Joshua Blair,EWS,Chennai,"Python, Finance, Marketing, Design",55.2
+C0050,Eric Carney,OBC,Bangalore,"Excel, Finance",57.8
+C0051,Jessica Holmes,SC,Pune,"Design, Data Analysis",84.4
+C0052,Danny Morgan,SC,Pune,"Marketing, Python, Excel",81.7
+C0053,Crystal Robinson,SC,Delhi,"Design, Communication",81.9
+C0054,Mark Perez,SC,Mumbai,"Content Writing, Finance, Sales, Marketing",50.5
+C0055,Shannon Jones,General,Chennai,"Finance, Python",91.7
+C0056,Michael Lewis,EWS,Pune,"Sales, Communication",52.1
+C0057,Timothy Duncan,SC,Delhi,"Data Analysis, Customer Support, Excel",67.7
+C0058,Richard Aguirre,EWS,Hyderabad,"Communication, Data Analysis, Customer Support, Sales",90.5
+C0059,Brent Jordan,ST,Delhi,"Design, Sales",90.1
+C0060,John Daniel,OBC,Bangalore,"Excel, Sales",93.6
+C0061,Victoria Garcia,ST,Mumbai,"Content Writing, Design",65.3
+C0062,Gerald Hensley,OBC,Mumbai,"Data Analysis, Sales",66.4
+C0063,Connor West,General,Bangalore,"Finance, Sales, Design",97.0
+C0064,Donald Wright,General,Bangalore,"Customer Support, Marketing",51.9
+C0065,Jessica Callahan,EWS,Hyderabad,"Design, Sales, Excel",69.3
+C0066,Amber Kidd,EWS,Mumbai,"Python, Sales, Customer Support",76.0
+C0067,Tracy House,EWS,Chennai,"Data Analysis, Design, Sales, Python",97.4
+C0068,Carol Tucker,SC,Pune,"Excel, Marketing, Finance",83.3
+C0069,James Brown,SC,Hyderabad,"Marketing, Finance, Communication, Excel",71.0
+C0070,William Baker,ST,Chennai,"Communication, Marketing, Sales, Finance",91.7
+C0071,Jordan Henderson,SC,Bangalore,"Sales, Design",73.2
+C0072,Whitney Peters,ST,Chennai,"Finance, Content Writing",89.7
+C0073,Brittney Phillips,OBC,Chennai,"Marketing, Finance",83.2
+C0074,Lauren Daniels,EWS,Bangalore,"Data Analysis, Marketing",61.2
+C0075,Amy Silva,OBC,Mumbai,"Python, Data Analysis",99.2
+C0076,Sarah Moore,EWS,Delhi,"Sales, Data Analysis, Customer Support",74.7
+C0077,Angela Lopez,OBC,Mumbai,"Python, Excel, Sales, Finance",58.8
+C0078,Megan Young,EWS,Hyderabad,"Finance, Data Analysis",95.9
+C0079,Steve Sanchez,General,Hyderabad,"Content Writing, Finance",99.4
+C0080,Lisa Barnes,EWS,Bangalore,"Customer Support, Finance, Sales",91.5
+C0081,Kelly Donovan,EWS,Hyderabad,"Content Writing, Customer Support",63.0
+C0082,Mike Allen,OBC,Chennai,"Finance, Content Writing, Data Analysis",63.7
+C0083,Michael Evans,General,Chennai,"Data Analysis, Marketing, Design",66.0
+C0084,Paul Jones,EWS,Delhi,"Communication, Data Analysis",69.2
+C0085,Zachary Ferrell,OBC,Chennai,"Excel, Sales",70.4
+C0086,Daniel Baker,EWS,Hyderabad,"Python, Data Analysis, Sales",69.5
+C0087,Shirley Suarez,EWS,Chennai,"Customer Support, Sales",73.8
+C0088,Christopher Bass,SC,Bangalore,"Sales, Finance, Data Analysis",74.4
+C0089,Lisa Archer,SC,Hyderabad,"Python, Sales, Design",83.4
+C0090,Aimee Montoya,ST,Chennai,"Content Writing, Communication",99.0
+C0091,Matthew Mcmillan,EWS,Delhi,"Customer Support, Python, Excel",82.1
+C0092,Brian Rodriguez,OBC,Hyderabad,"Python, Marketing",69.0
+C0093,Denise Jacobs,OBC,Hyderabad,"Design, Sales, Marketing",87.6
+C0094,Christina Walters,ST,Bangalore,"Content Writing, Python",87.5
+C0095,John Whitehead,General,Bangalore,"Excel, Python",87.7
+C0096,Anna Henderson,OBC,Mumbai,"Customer Support, Communication",61.9
+C0097,Aaron Wise,ST,Chennai,"Customer Support, Data Analysis",73.3
+C0098,Deborah Figueroa,SC,Bangalore,"Customer Support, Excel",88.9
+C0099,Jessica Smith,OBC,Bangalore,"Customer Support, Python",96.4
+C0100,Stephen Mckee,EWS,Chennai,"Sales, Data Analysis, Excel",79.6
+C0101,Sandra Aguilar,OBC,Delhi,"Marketing, Excel, Python, Communication",76.6
+C0102,Cameron Parker,SC,Delhi,"Design, Python, Sales, Content Writing",74.5
+C0103,Rebecca Valencia,ST,Bangalore,"Content Writing, Communication, Sales, Excel",86.7
+C0104,Christine Wright,SC,Pune,"Content Writing, Customer Support, Sales, Finance",86.6
+C0105,Richard Henson,SC,Bangalore,"Excel, Marketing",94.1
+C0106,Marc Moore,OBC,Hyderabad,"Customer Support, Sales, Design, Python",74.7
+C0107,Sharon Cherry,SC,Mumbai,"Data Analysis, Design, Marketing",67.0
+C0108,Sierra Johnson,EWS,Chennai,"Finance, Python, Data Analysis",54.3
+C0109,Evelyn Galvan,ST,Hyderabad,"Data Analysis, Content Writing, Finance, Customer Support",89.6
+C0110,Sharon Cochran,General,Bangalore,"Sales, Data Analysis",65.3
+C0111,Richard Rodriguez,EWS,Bangalore,"Finance, Customer Support, Design",71.3
+C0112,Shannon Walker,EWS,Bangalore,"Content Writing, Marketing, Finance",62.6
+C0113,Julia Torres,General,Chennai,"Design, Excel",87.1
+C0114,Crystal Johnson,OBC,Mumbai,"Content Writing, Marketing",86.2
+C0115,Garrett Lin,EWS,Pune,"Excel, Data Analysis, Marketing",61.4
+C0116,Diana May,OBC,Bangalore,"Finance, Communication",63.7
+C0117,William Herrera,General,Pune,"Communication, Content Writing, Excel",93.6
+C0118,Ashley Waller,EWS,Bangalore,"Content Writing, Customer Support, Design",59.2
+C0119,Victor Baker,General,Bangalore,"Excel, Customer Support, Sales",74.6
+C0120,Jeffrey Chandler,EWS,Chennai,"Python, Communication, Finance, Sales",78.1
+C0121,Larry Dixon,SC,Delhi,"Excel, Finance",88.2
+C0122,Kenneth Scott,EWS,Pune,"Data Analysis, Finance, Sales, Customer Support",95.4
+C0123,April Frost,SC,Pune,"Marketing, Python, Excel",97.4
+C0124,Michelle Harmon,OBC,Chennai,"Marketing, Excel",57.9
+C0125,Helen Jones,OBC,Pune,"Communication, Python",70.4
+C0126,Erin Edwards,EWS,Hyderabad,"Python, Data Analysis, Marketing",85.3
+C0127,Michelle Evans,ST,Delhi,"Data Analysis, Marketing, Customer Support, Content Writing",55.7
+C0128,Jason Powell,OBC,Chennai,"Marketing, Communication",53.6
+C0129,Cameron Fisher,OBC,Bangalore,"Customer Support, Marketing, Content Writing, Python",73.4
+C0130,Megan Orr,SC,Chennai,"Marketing, Finance, Content Writing",71.9
+C0131,Elizabeth Kelley,EWS,Delhi,"Design, Marketing, Python",54.6
+C0132,Dustin Jordan,EWS,Pune,"Marketing, Python",88.2
+C0133,Mary Marshall,OBC,Hyderabad,"Content Writing, Marketing, Communication, Finance",71.8
+C0134,Daniel Kennedy,ST,Delhi,"Design, Sales, Customer Support",66.1
+C0135,Rebecca Jackson,General,Mumbai,"Sales, Content Writing, Marketing",83.1
+C0136,Jose Schultz,ST,Pune,"Content Writing, Excel",65.7
+C0137,Robert Potter,SC,Delhi,"Finance, Python, Content Writing",70.7
+C0138,Courtney Gonzalez,OBC,Pune,"Customer Support, Content Writing, Finance",88.0
+C0139,David Alvarez,OBC,Bangalore,"Communication, Marketing, Content Writing, Design",74.2
+C0140,Angel Perry,General,Chennai,"Data Analysis, Communication, Marketing, Content Writing",50.7
+C0141,Cheyenne Horton,ST,Delhi,"Excel, Content Writing",97.4
+C0142,David Douglas Jr.,OBC,Hyderabad,"Marketing, Finance, Customer Support, Data Analysis",91.7
+C0143,Patricia Rodriguez,ST,Mumbai,"Finance, Communication, Sales",59.5
+C0144,Christopher Rubio,EWS,Pune,"Communication, Excel, Marketing, Sales",89.5
+C0145,Amber Wright,ST,Bangalore,"Marketing, Python, Customer Support, Design",64.9
+C0146,Joyce Solis,EWS,Pune,"Content Writing, Communication, Customer Support, Marketing",74.2
+C0147,Victoria Larson,SC,Pune,"Sales, Content Writing, Design, Customer Support",59.4
+C0148,Stephanie Salazar,OBC,Pune,"Data Analysis, Sales, Python",65.9
+C0149,Kathy Rivas,ST,Chennai,"Sales, Communication, Content Writing",98.2
+C0150,Stephanie Manning,OBC,Pune,"Design, Excel, Content Writing, Python",76.3
+C0151,David Wright,ST,Delhi,"Communication, Sales, Customer Support, Python",73.5
+C0152,Pamela Boyd,SC,Bangalore,"Sales, Excel, Design, Customer Support",83.7
+C0153,Denise Jones,EWS,Hyderabad,"Content Writing, Finance, Python",80.9
+C0154,Devon Flores,OBC,Chennai,"Marketing, Data Analysis, Excel, Finance",98.9
+C0155,Brenda Hall,General,Hyderabad,"Marketing, Python",52.3
+C0156,Michelle Brown,General,Bangalore,"Design, Sales, Communication",62.2
+C0157,Joshua Perry,ST,Pune,"Communication, Customer Support, Finance, Python",80.5
+C0158,Jason Stein,ST,Pune,"Data Analysis, Content Writing, Communication, Excel",73.1
+C0159,Melissa Gates,SC,Hyderabad,"Python, Content Writing, Marketing",83.9
+C0160,Jamie Smith,OBC,Delhi,"Design, Marketing, Sales",84.5
+C0161,Paul Castaneda,ST,Bangalore,"Sales, Content Writing",55.3
+C0162,Jennifer Adkins,ST,Pune,"Customer Support, Marketing, Finance",51.1
+C0163,Lindsey Walker,ST,Bangalore,"Customer Support, Python",95.5
+C0164,Jeffrey Johnson,ST,Bangalore,"Customer Support, Design",61.0
+C0165,Michael Powell,OBC,Pune,"Communication, Excel, Python",65.4
+C0166,John Anderson,ST,Delhi,"Design, Communication, Excel, Finance",66.3
+C0167,Alyssa Long,ST,Mumbai,"Communication, Finance",93.8
+C0168,Alyssa Day,SC,Pune,"Marketing, Communication, Customer Support, Sales",97.2
+C0169,Joel Williams,SC,Chennai,"Excel, Content Writing, Customer Support",57.0
+C0170,Daniel Murphy,OBC,Chennai,"Sales, Finance, Design, Python",89.5
+C0171,Jamie Walton,General,Bangalore,"Excel, Content Writing, Design, Finance",87.5
+C0172,Darlene Miller,SC,Pune,"Design, Excel, Data Analysis",73.6
+C0173,Joshua Cooke,EWS,Pune,"Customer Support, Data Analysis, Excel",81.8
+C0174,Matthew Harrington,ST,Chennai,"Sales, Excel, Communication",52.3
+C0175,Nicole Herring,General,Bangalore,"Excel, Customer Support, Data Analysis",94.4
+C0176,Alex Hernandez,OBC,Hyderabad,"Design, Finance, Sales",79.4
+C0177,Michael Elliott,OBC,Hyderabad,"Excel, Content Writing, Sales, Communication",51.6
+C0178,Michael Wang,SC,Mumbai,"Content Writing, Data Analysis, Design",55.0
+C0179,Lawrence Adkins,SC,Pune,"Design, Python, Sales, Communication",59.5
+C0180,Robert Oconnell,General,Hyderabad,"Data Analysis, Python",52.5
+C0181,Alexander Collins,SC,Mumbai,"Customer Support, Data Analysis",53.4
+C0182,Tina Sanders,EWS,Mumbai,"Data Analysis, Customer Support, Design, Sales",57.4
+C0183,Angela Vaughn,EWS,Delhi,"Communication, Customer Support, Marketing",89.9
+C0184,Ashley Barton,General,Chennai,"Communication, Python",67.9
+C0185,Lindsay Martinez,OBC,Pune,"Python, Communication, Marketing",52.6
+C0186,Dr. Hannah Patterson,ST,Pune,"Excel, Content Writing",72.4
+C0187,Jonathan Peterson,SC,Pune,"Excel, Content Writing, Data Analysis, Marketing",52.2
+C0188,Samantha Garcia,EWS,Bangalore,"Python, Customer Support, Content Writing",92.4
+C0189,Madison Poole,ST,Chennai,"Content Writing, Customer Support",53.7
+C0190,Jessica Gross,General,Bangalore,"Communication, Excel, Customer Support, Content Writing",81.2
+C0191,Debra Morton,EWS,Pune,"Design, Sales, Marketing, Data Analysis",75.3
+C0192,Karen Graham,ST,Delhi,"Excel, Finance, Data Analysis, Content Writing",72.6
+C0193,Debra Christian,OBC,Hyderabad,"Content Writing, Sales, Finance",86.5
+C0194,Angelica Keith,SC,Hyderabad,"Marketing, Design, Communication",84.3
+C0195,John Bishop,ST,Delhi,"Excel, Customer Support",71.6
+C0196,Allen Rosales,SC,Mumbai,"Python, Finance, Design, Content Writing",56.1
+C0197,Daniel Salinas,SC,Chennai,"Python, Marketing, Finance",67.6
+C0198,Spencer Haynes,EWS,Pune,"Communication, Content Writing",61.2
+C0199,Adam Vaughan,General,Bangalore,"Design, Excel, Marketing, Content Writing",61.3
+C0200,Nathan Freeman,ST,Pune,"Customer Support, Finance, Python, Marketing",96.5

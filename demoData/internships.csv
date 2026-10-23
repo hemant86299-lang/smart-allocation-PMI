@@ -1,0 +1,31 @@
+internship_id,title,location,capacity,required_skills,reserved_category
+I001,Financial adviser,Chennai,6,"Communication, Marketing",
+I002,Publishing copy,Bangalore,7,"Python, Communication, Finance",EWS
+I003,Recycling officer,Chennai,8,"Communication, Python",General
+I004,Product/process development scientist,Chennai,10,"Sales, Customer Support",ST
+I005,Adult guidance worker,Bangalore,4,"Marketing, Design, Excel",General
+I006,Chief Financial Officer,Mumbai,4,"Excel, Marketing",ST
+I007,Hospital pharmacist,Chennai,8,"Customer Support, Content Writing, Sales",SC
+I008,Environmental consultant,Mumbai,10,"Design, Sales",General
+I009,Ophthalmologist,Bangalore,9,"Python, Data Analysis, Sales",EWS
+I010,Financial planner,Delhi,2,"Marketing, Data Analysis",
+I011,Information officer,Mumbai,6,"Design, Excel, Python",ST
+I012,Television camera operator,Chennai,8,"Communication, Sales",EWS
+I013,"Merchandiser, retail",Chennai,5,"Excel, Sales, Python",ST
+I014,Public librarian,Delhi,9,"Design, Sales",EWS
+I015,Surgeon,Hyderabad,8,"Excel, Sales, Python",SC
+I016,Set designer,Mumbai,9,"Excel, Sales, Customer Support",OBC
+I017,Local government officer,Hyderabad,8,"Sales, Marketing",
+I018,"Physicist, medical",Bangalore,5,"Communication, Excel, Finance",EWS
+I019,Statistician,Pune,5,"Design, Communication, Data Analysis",General
+I020,Lawyer,Mumbai,6,"Communication, Customer Support",
+I021,Management consultant,Chennai,3,"Content Writing, Customer Support",
+I022,Professor Emeritus,Pune,9,"Design, Communication, Content Writing",General
+I023,Geoscientist,Hyderabad,9,"Marketing, Python, Design",EWS
+I024,Information officer,Delhi,6,"Content Writing, Python, Finance",SC
+I025,Food technologist,Bangalore,3,"Customer Support, Finance",ST
+I026,Exercise physiologist,Hyderabad,10,"Content Writing, Data Analysis",SC
+I027,Community arts worker,Pune,9,"Python, Content Writing",General
+I028,"Engineer, automotive",Bangalore,3,"Python, Data Analysis",
+I029,Interpreter,Hyderabad,9,"Design, Customer Support",SC
+I030,Communications engineer,Hyderabad,8,"Customer Support, Python, Design",General
